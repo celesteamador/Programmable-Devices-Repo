@@ -14,6 +14,4 @@ The second program created was an introductory program to some of the operators 
 
 It requests the user to input 2 numbers and select an option for the operation to execute. At the end it prints the time it took to execute the program.
 
-![
-    
-](assets/image-1.png)
+![alt text](assets/image-1.png)
