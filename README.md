@@ -9,7 +9,7 @@ The program uses iostream, and uses cout to print results, starting with the cla
 
 ![alt text](assets/image.png)
 
-# Calculator
+## Calculator
 The second program created was an introductory program to some of the operators in C++ and the clock_t function. 
 
 It requests the user to input 2 numbers and select an option for the operation to execute. At the end it prints the time it took to execute the program.
