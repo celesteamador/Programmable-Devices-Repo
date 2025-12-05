@@ -16,7 +16,7 @@ int main()
     cin>>A;
     cout<<"Enter the second number: ";
     cin>>B;
-    cout<<"Operation to execute:\n 1.Addition\n 2.Subtraction\n 3.Multiplication\n";
+    cout<<"Operation to execute:\n 1.Addition\n 2.Subtraction\n 3.Multiplication\n Operation selected: ";
     cin>>operation;
 
     if(operation == 1) //Addition
@@ -40,11 +40,11 @@ int main()
             }
             else
             {
-                cout<<"Invalid operation"; // Other number
+                cout<<"Invalid operation\n"; // Other number
             }
         }
     }
     t=clock()-t; //Hora al finalizar el programa
-    cout<<"The calculator's execution time was: "<<float(t)/CLOCKS_PER_SEC<<" seconds"; //Prints time
+    cout<<"The calculator's execution time was: "<<float(t)/CLOCKS_PER_SEC<<" seconds\n"; //Prints time
 }
 

@@ -10,11 +10,15 @@ The program uses iostream, and uses cout to print results, starting with the cla
 ![Image of program in execution](assets/introduction.png)
 
 ## Calculator
-The second program created was an introductory program to some of the operators in C++ and the clock_t function. The if conditional was introduced.
+The second program created was an introductory program to some of the operators in C++ and the clock_t function. The if conditional was introduced, 
 
 It requests the user to input 2 numbers and select an option for the operation to execute. At the end it prints the time it took to execute the program.
 
+When a different option from the one's given is entered, it prints an 'invalid option' message.
+
 ![Image of program in execution](assets/calculator.png)
+![alt text](image.png)
+![alt text](assets/calculator2.png)
 
 ## Counter
 The third program created counts from 0 to 100 in steps of 5. The for loop was introduced.
@@ -25,3 +29,11 @@ The third program created counts from 0 to 100 in steps of 5. The for loop was i
 The fourth program created is evaluates wheter a number is prime or not. It was introduced the while loop and implemented the if conditionals.
 
 ![Image of program in execution](assets/prime_number.png)
+
+## Functions
+The fifth program created gives the result from the sine, cosine or tangent functions based on the user's input and selection of the function. It prints the time it took to execute the program at the end.
+
+When a different option from the one's given is entered, it prints an 'invalid option' message.
+
+![Image of program in execution](assets/functions.png)
+![alt text](assets/functions2.png)
