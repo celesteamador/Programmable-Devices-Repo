@@ -17,8 +17,7 @@ It requests the user to input 2 numbers and select an option for the operation t
 When a different option from the one's given is entered, it prints an 'invalid option' message.
 
 ![Image of program in execution](assets/calculator.png)
-![alt text](image.png)
-![alt text](assets/calculator2.png)
+![Image of program in execution - invalid input](assets/calculator2.png)
 
 ## Counter
 The third program created counts from 0 to 100 in steps of 5. The for loop was introduced.
@@ -36,4 +35,4 @@ The fifth program created gives the result from the sine, cosine or tangent func
 When a different option from the one's given is entered, it prints an 'invalid option' message.
 
 ![Image of program in execution](assets/functions.png)
-![alt text](assets/functions2.png)
+![Image of program in execution - invalid input](assets/functions2.png)
